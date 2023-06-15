@@ -1,6 +1,4 @@
-/*
- * 4-puts.c
- *
+/* 4-puts.c
  */
 #include <stdio.h>
 /**
