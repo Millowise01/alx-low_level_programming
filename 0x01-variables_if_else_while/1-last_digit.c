@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - main entry point it Prints the last digit of a randomly generated number
- *
+ * main - main entry point
+ * It prints the last digit of a randomly generated number
  * Return: Always 0. (if successful)
  */
 int main(void)
