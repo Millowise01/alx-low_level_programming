@@ -7,7 +7,7 @@
  * @next: it points the next node
  *
  * Description: it singly linked list node structure
- * 
+ *
  */
 typedef struct list_s
 {
