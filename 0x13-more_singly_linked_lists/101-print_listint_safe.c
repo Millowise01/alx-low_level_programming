@@ -5,7 +5,7 @@ size_t looped_listint_len(const listint_t *head);
 size_t print_listint_safe(const listint_t *head);
 /**
  * looped_listint_len - to count the number of unique nodes
- * 
+ *
  * @head: A pointer that point to the head of the listint_t to check.
  *
  * Return: to list is not looped - 0.
